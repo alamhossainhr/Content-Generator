@@ -1,0 +1,6 @@
+{
+  "name": "SEO Blog Content Engine",
+  "description": "AI-powered SEO blog generator that transforms single sentences into fully optimized, publishing-ready blog posts with automated keyword research, meta descriptions, internal linking suggestions, visual assets, and multi-format exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
